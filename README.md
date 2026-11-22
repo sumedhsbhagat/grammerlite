@@ -1,2 +1,0 @@
-# grammerlite
-Privacy policy repo 
